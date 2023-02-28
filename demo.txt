@@ -1,3 +1,4 @@
 echo "welcome to india"
 echo "welcome to my world"
 echo " welcome to my beautiful country"
+run sudo apt-get update / run sudo apt install apache2 / run  read formula
